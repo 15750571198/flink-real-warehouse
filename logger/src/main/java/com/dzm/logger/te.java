@@ -1,4 +1,4 @@
 package com.dzm.logger;
 
-public class logger {
+public class te {
 }
